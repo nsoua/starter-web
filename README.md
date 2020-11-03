@@ -4,9 +4,11 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with plenty of files for demos
+this is a simple website project for showing how to use Git and GitHub together.
 
 # Starter Web Project 
+
+this is a simple website project for
 
 ## Introduction
 
