@@ -12,6 +12,8 @@ this is a simple website project for
 
 ## Introduction
 
+this is example is to show different parts of Git repository and various commands using a web project.
+
 ## Purpose
 
 ## Deployment
