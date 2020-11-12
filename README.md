@@ -24,6 +24,8 @@ thos is a simple web project deployment can be on any web  server or even local 
 
 ## How To Contribute
 
+Plase fork thisvrepository and then issiue Pull Requests for review.
+
 
 ### Copyright 
 
